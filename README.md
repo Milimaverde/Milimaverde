@@ -9,7 +9,7 @@ Dedicada a aprimorar minhas habilidades com foco em Javascript e frameworks mode
 
 
 ## 🛠 Skills
-♥ Javascript ♥ ReactJS ♥ React Native ♥ Node ♥ Typescript ♥
+♥ ReactJS ♥ React Native ♥ Node ♥
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
